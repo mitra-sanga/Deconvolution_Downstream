@@ -1,5 +1,7 @@
 # Deconvolution_Downstream analyses
-The downstream effect of application of deconvolution method on brain transcriptomics data for Alzheimer's Disease is systematically analysed in this project.
+This repository contains code used to investigate the downstream effects of applying cell-type deconvolution methods to brain transcriptomic data in Alzheimer's disease.
+
+The project systematically evaluates how cell-type correction influences differential gene expression analyses and downstream biological interpretation across multiple brain regions and independent cohorts.
 
 # Code and corresponding analysis overview
 
@@ -30,17 +32,13 @@ install.packages("package_name")
 
 Clone the repository:
 
-
 git clone https://github.com/mitra-sanga/Deconvolution_Downstream.git
-
 
 Open the project in RStudio and run the analysis scripts located in:
 
-
 scripts/
 
-
-All file paths are handled using the here() package, so the project can be executed without modifying paths.
+All file paths are handled using the here() package, allowing the project to run without modifying file paths.
 
 
 # Data Sources
