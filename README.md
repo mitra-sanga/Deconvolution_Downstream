@@ -53,13 +53,13 @@ Open Targets GWAS risk loci for Alzheimer’s disease
 
 Brain cell-type marker gene sets from published studies
 
-Author
+# Author
 
 Dr. Sanga Mitra
 Senior Research Scientist
 Department of Computer Science and Engineering
 Indian Institute of Technology Madras
 
-License
+# License
 
 This repository is provided for academic research purposes.
