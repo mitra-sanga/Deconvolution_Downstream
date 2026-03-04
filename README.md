@@ -23,11 +23,10 @@ Required packages are mention in the scripts
 
 Install missing packages using:
 
-```r
 install.packages("package_name")
 
 
-**Running the Analysis**
+# Running the Analysis
 
 Clone the repository:
 
@@ -44,7 +43,7 @@ scripts/
 All file paths are handled using the here() package, so the project can be executed without modifying paths.
 
 
-**Data Sources**
+# Data Sources
 
 Mount Sinai Brain Bank (MSBB) RNA-seq dataset
 
