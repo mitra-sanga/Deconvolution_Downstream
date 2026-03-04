@@ -12,7 +12,7 @@ The repository includes code for the following analyses:
 - Functional enrichment analysis (GSEA)
 - Cross-region DEG consistency analysis
 - Alzheimer’s disease GWAS risk gene enrichment
-- - Cross-cohort comparison between **MSBB and ROSMAP**
+- Cross-cohort comparison between **MSBB and ROSMAP**
 
 
 # Requirements
